@@ -1,0 +1,1 @@
+Simple projectile motion calculator, run the main.class file to start the program.
